@@ -1,0 +1,17 @@
+[Global]
+IpChecker= 2
+Binder= 0
+AutoVidat= 1
+Autopm=1 
+ReportCount= 244
+autopm=0
+vidat=0
+
+[Key]
+text1=Желаем Вам приятной игры и хорошего настроения на Monser Gang War
+text2=Работаю по Вашей жалобой, ожидайте ответа
+text3=Игрок наказан. Приятной игры на Monser Gang War
+text4=Не наблюдаются нарушений от данного игрока
+text5=Если Вы не согласны с действиями администратора - оставьте жалобу на форум (forum.monser.ru)
+text6=
+text7=
